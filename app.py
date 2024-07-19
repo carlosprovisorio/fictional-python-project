@@ -73,4 +73,4 @@
 # bool(-1) True
 # bool(5) True
 # bool("") False
-# bool("False")
+# bool("False") True
