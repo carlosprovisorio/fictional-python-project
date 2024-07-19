@@ -29,12 +29,29 @@
 # full = f"{first} {last}"  # better version
 # print(full)
 
-course = "  python programming"
-print(course.upper())
-print(course.lower())
-print(course.title())
-print(course.rstrip())
-print(course.find("Pro"))
-print(course.replace("p", "j"))
-print("pro" in course)
-print("swift" not in course)
+# course = "  python programming"
+# print(course.upper())
+# print(course.lower())
+# print(course.title())
+# print(course.rstrip())
+# print(course.find("Pro"))
+# print(course.replace("p", "j"))
+# print("pro" in course)
+# print("swift" not in course)
+
+
+# x = 1 #integer
+# x = 1.1 # float
+# x = 1 + 2j # complex number
+
+# print(10 + 3)
+# print(10 - 3)
+# print(10 * 3)
+# print(10 / 3)
+# print(10 // 3)
+# print(10 % 3)
+# print(10**3)
+
+# x = 10
+# x = x + 3
+# x += 3
