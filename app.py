@@ -57,9 +57,20 @@
 # x += 3
 
 
-import math
+# import math
 
-print(round(2.9))
-print(abs(-2.9))
+# print(round(2.9))
+# print(abs(-2.9))
 
-print(math.ceil(2.2))
+# print(math.ceil(2.2))
+
+# x = input("X: ")
+# y = int(x) + 1
+# print(f"x: {x}, y: {y}")
+
+# bool(0) False
+# bool(1) True
+# bool(-1) True
+# bool(5) True
+# bool("") False
+# bool("False")
