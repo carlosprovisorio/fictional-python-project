@@ -23,8 +23,18 @@
 # course = 'Python "Programming'
 # print(course)
 
-first = "Carlos"
-last = "Ferreira"
-# full = first + " " + last     # Ugly
-full = f"{first} {last}"  # better version
-print(full)
+# first = "Carlos"
+# last = "Ferreira"
+# # full = first + " " + last     # Ugly
+# full = f"{first} {last}"  # better version
+# print(full)
+
+course = "  python programming"
+print(course.upper())
+print(course.lower())
+print(course.title())
+print(course.rstrip())
+print(course.find("Pro"))
+print(course.replace("p", "j"))
+print("pro" in course)
+print("swift" not in course)
